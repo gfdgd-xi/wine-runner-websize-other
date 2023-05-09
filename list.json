@@ -1,5 +1,5 @@
 [
     ["Windows Script 5.7 for Windows XP", "https://download.microsoft.com/download/f/f/e/ffea3abf-b55f-4924-b5a5-bde0805ad67c/scripten.exe", "exe", "scripten.exe"],
-    ["Windows Management Instrumentation 1.50.1131", "https://www.gitlink.org.cn/api/attachments/390680", "exe", "WMITools.exe"],
-    ["MFC运行库", "https://code.gitlink.org.cn/gfdgd_xi/wine-runner-list/raw/branch/master/other/MFC运行库.exe", "exe", "MFC运行库.exe"]
+    ["Windows Management Instrumentation 1.50.1131", "http://other.wine-runner.gfdgdxi.top/WMITools.exe", "exe", "WMITools.exe"],
+    ["MFC运行库", "http://other.wine-runner.gfdgdxi.top/MFC运行库.exe", "exe", "MFC运行库.exe"]
 ]
